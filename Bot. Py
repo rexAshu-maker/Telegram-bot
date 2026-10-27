@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = '6463820078:AAFeRKr9yIST6mYhNlKth0pkMR4ohzMXBAg'
+TOKEN = '6463820078:AAEya9tZaew9L9Sge0nTvOjQDCGRluOWxkk'
 ADMIN_ID = 5618136248  # Replace with your actual numeric Telegram ID
 
 bot = telebot.TeleBot(TOKEN)
