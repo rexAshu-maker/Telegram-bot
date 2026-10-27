@@ -82,6 +82,6 @@ def restart_command(message):
         bot.reply_to(message, "⚠️ This command is restricted to the admin.")
 
 print("Bot is running...")
-bot.infinity_polling() 📊 **Bot Stats:**
+bot.infinity_polling()  **Bot Stats:**
 Total Users: 1
 Active: Yes (Admin Only)
